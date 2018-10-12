@@ -1,0 +1,7 @@
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_1\BondJames_ShahShahid\BondJames_ShahShahid\bin\Debug\BondJames_ShahShahid.exe.config
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_1\BondJames_ShahShahid\BondJames_ShahShahid\bin\Debug\BondJames_ShahShahid.exe
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_1\BondJames_ShahShahid\BondJames_ShahShahid\bin\Debug\BondJames_ShahShahid.pdb
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_1\BondJames_ShahShahid\BondJames_ShahShahid\obj\Debug\BondJames_ShahShahid.csprojAssemblyReference.cache
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_1\BondJames_ShahShahid\BondJames_ShahShahid\obj\Debug\BondJames_ShahShahid.csproj.CoreCompileInputs.cache
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_1\BondJames_ShahShahid\BondJames_ShahShahid\obj\Debug\BondJames_ShahShahid.exe
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_1\BondJames_ShahShahid\BondJames_ShahShahid\obj\Debug\BondJames_ShahShahid.pdb

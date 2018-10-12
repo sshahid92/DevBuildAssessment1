@@ -1,0 +1,6 @@
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_1\IdLikeToBuyAVowel_ShahShahid\IdLikeToBuyAVowel_ShahShahid\bin\Debug\IdLikeToBuyAVowel_ShahShahid.exe.config
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_1\IdLikeToBuyAVowel_ShahShahid\IdLikeToBuyAVowel_ShahShahid\bin\Debug\IdLikeToBuyAVowel_ShahShahid.exe
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_1\IdLikeToBuyAVowel_ShahShahid\IdLikeToBuyAVowel_ShahShahid\bin\Debug\IdLikeToBuyAVowel_ShahShahid.pdb
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_1\IdLikeToBuyAVowel_ShahShahid\IdLikeToBuyAVowel_ShahShahid\obj\Debug\IdLikeToBuyAVowel_ShahShahid.csproj.CoreCompileInputs.cache
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_1\IdLikeToBuyAVowel_ShahShahid\IdLikeToBuyAVowel_ShahShahid\obj\Debug\IdLikeToBuyAVowel_ShahShahid.exe
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_1\IdLikeToBuyAVowel_ShahShahid\IdLikeToBuyAVowel_ShahShahid\obj\Debug\IdLikeToBuyAVowel_ShahShahid.pdb

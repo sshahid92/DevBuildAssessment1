@@ -1,0 +1,6 @@
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_1\Math_ShahShahid\Math_ShahShahid\bin\Debug\Math_ShahShahid.exe.config
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_1\Math_ShahShahid\Math_ShahShahid\bin\Debug\Math_ShahShahid.exe
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_1\Math_ShahShahid\Math_ShahShahid\bin\Debug\Math_ShahShahid.pdb
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_1\Math_ShahShahid\Math_ShahShahid\obj\Debug\Math_ShahShahid.csproj.CoreCompileInputs.cache
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_1\Math_ShahShahid\Math_ShahShahid\obj\Debug\Math_ShahShahid.exe
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\Assessment_1\Math_ShahShahid\Math_ShahShahid\obj\Debug\Math_ShahShahid.pdb
